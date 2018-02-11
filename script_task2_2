@@ -1,0 +1,6 @@
+"use strict";
+var str = '';
+for (var i = 9; i > 0; i--) {
+    str += i;
+}
+alert(str);
